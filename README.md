@@ -1,0 +1,1 @@
+This is first Alessandro's git project!
